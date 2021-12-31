@@ -1,12 +1,12 @@
 {
   "post": [
-    {
-      "id":1,
-      "At": "indore",
-      "creator": "moksh",
-      "image": "",
-      "social": "moksh@2005"
-    }
+   {
+     "id":1,
+     "At": "indore",
+     "creator": "moksh",
+     "image": "",
+     "social": "moksh@2005"
+   }
   ],
   "posts": [
    {
