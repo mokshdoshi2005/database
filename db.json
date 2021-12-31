@@ -1,9 +1,15 @@
 {
-  "posts": [
+  "post": [
     {"At": "indore"},
     {"creator": "moksh"},
     {"image": ""},
     {"social": "moksh@2005"}
+  ],
+  "posts": [
+   {
+     "id": 1,
+     "title": "hello"
+   }
   ],
   "profile": {
     "name": "typicode"
